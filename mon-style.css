@@ -1,0 +1,19 @@
+
+  #left {
+   border : 1px solid #0648ac ;
+    background :#c9d1cd;
+    width: 290px;
+    min-height: 450px;
+    float : left ;
+    margin-bottom: 15px;
+    border: 5px rgb(10, 0, 2) double
+        }
+    #left1 {
+          border : 1px solid #040a12 ;
+           background :#36a168;
+           width: 290px;
+           min-height: 45px;
+           float : left ;
+           margin-bottom: 15px;
+               }
+      
